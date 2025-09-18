@@ -1,5 +1,4 @@
-Pragyan AI and DS School
-2:13 PM
+
 import streamlit as st
 import pandas as pd
 import joblib
